@@ -1,8 +1,11 @@
 ## Hi there 👋
-I’m currently diving into the world of JASP,
+I’m currently diving into the world of JASP.
+
 I’m pursuing a minor in Machine Learning.
 In addition, I’m learning Dutch and Russian to deepen my understanding of Europe from a linguistic perspective.
-I'm a movie maniac and one of my all-time favorites is ‘Les quatre cents coups’
+
+I'm a movie maniac and my all-time favorite is ‘Les quatre cents coups’
+
 For future study and career, I aspire to delve into the fields where science intersects (e.g. AI) with arts in all forms.
 
 
