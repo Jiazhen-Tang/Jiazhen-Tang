@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m currently diving into the world of JASP.
+I'm a student at Universiteit van Amsterdam, finishing up my psychology program and diving into the world of JASP.
 
 I’m pursuing a minor in Machine Learning.
 In addition, I’m learning Dutch and Russian to deepen my understanding of Europe from a linguistic perspective.
